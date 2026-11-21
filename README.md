@@ -5,7 +5,10 @@
 ## 演示视频
 
 <video controls width="640">
-  <source src="https://github.com/penxy/minihost/blob/main/asserts/VID20261121194216.mp4" type="video/mp4" />
+  <source
+    src="https://raw.githubusercontent.com/penxy/minihost/main/asserts/VID20261121194216.mp4"
+    type="video/mp4"
+  />
   您的浏览器不支持 HTML5 视频播放。
 </video>
 
