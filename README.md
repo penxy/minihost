@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-* [点击播放演示视频（B站）](https://www.bilibili.com/video/BV1RdyHzJE8p/)
+* [点击播放演示视频（B站）](https://www.bilibili.com/video/BV11LypziEai)
 
 ## 效果图片
 
