@@ -4,12 +4,11 @@
 
 ## 演示视频
 
-<video src="asserts/VID20261121201729.mp4" controls width="640"></video>
-
-* [点击播放/下载演示视频](asserts/VID20261121201729.mp4)
+* [点击播放演示视频（B站）](https://www.bilibili.com/video/BV1RdyHzJE8p/)
 
 ## 效果图片
 
+* [设备图片](asserts/IMG20261121201859.jpg)
 * [更多效果图片](README_MORE.md)
 
 ## 项目功能
