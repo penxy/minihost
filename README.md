@@ -2,6 +2,12 @@
 
 基于 LEDE/OpenWrt 的树莓派 4B 固件。
 
+## 演示视频
+
+<video src="asserts/VID20261121201729.mp4" controls width="640"></video>
+
+* [点击播放/下载演示视频](asserts/VID20261121201729.mp4)
+
 ## 效果图片
 
 * [更多效果图片](README_MORE.md)
